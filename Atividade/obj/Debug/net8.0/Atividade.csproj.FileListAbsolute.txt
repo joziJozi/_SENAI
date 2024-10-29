@@ -1,0 +1,14 @@
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\bin\Debug\net8.0\Atividade.exe
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\bin\Debug\net8.0\Atividade.deps.json
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\bin\Debug\net8.0\Atividade.dll
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\bin\Debug\net8.0\Atividade.pdb
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\obj\Debug\net8.0\Atividade.dll
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\obj\Debug\net8.0\Atividade.pdb
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+C:\Users\josia\OneDrive\Área de Trabalho\_SENAI\Atividade\obj\Debug\net8.0\ref\Atividade.dll
